@@ -1,4 +1,4 @@
-# Time-series-predict-revenue
+# Time series predict the revenue
 <h3>Research Question</h3>
 <p>Can we train the time-series model using the history of revenues to forecast and predict future revenues?
 
