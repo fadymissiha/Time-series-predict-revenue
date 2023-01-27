@@ -1,7 +1,6 @@
 # Time series predict the revenue
 <h3>Research Question</h3>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7552995.svg)](https://doi.org/10.5281/zenodo.7552995)
-<br/>
+<a href="https://doi.org/10.5281/zenodo.7552995"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7552995.svg" alt="DOI"></a>
 <p>Can we train the time-series model using the history of revenues to forecast and predict future revenues?
 
 <p>This Data analytics study aims to prepare the history of revenues data and train the time-series model to predict and forecast future revenue.
